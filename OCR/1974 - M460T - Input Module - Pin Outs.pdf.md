@@ -1,5 +1,5 @@
 # 1974 - M460T - Input Module - Pin Outs.pdf
-Wiki page: [M460T](../../../PAGES/M460T.md)
+Wiki page: [M460T](../../../../PAGES/M460T.md)
 
 
 - **Year:** 1974 (module estimate (family))
@@ -22,7 +22,7 @@ Wiki page: [M460T](../../../PAGES/M460T.md)
 - **Closed boxes:** 38; named: Hl; 10; 13; 15; 16; 17; 18; 19; 20; 21; 22
 - **Words (OCR):** 86 in 70 lines: WAAD-BECK · CONNECIOR Layout · M4got INPUT MQDULE · PI · Mic · Mic · NC · Mic SHIELD · RSI · Rsi · FB2 · FB2
 
-Every curve, box, word and wire group: [1974 - M460T - Input Module - Pin Outs p1 (traced).json](1974%20-%20M460T%20-%20Input%20Module%20-%20Pin%20Outs%20p1%20%28traced%29.json) (the CAD file: `1974 - M460T - Input Module - Pin Outs p1 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460T - Input Module - Pin Outs p1 (traced).json](../PINOUTS/1974%20-%20M460T%20-%20Input%20Module%20-%20Pin%20Outs%20p1%20(traced).json) (the CAD file: `1974 - M460T - Input Module - Pin Outs p1 (traced).dxf`).
 
 ### Page 2
 
@@ -32,7 +32,7 @@ Every curve, box, word and wire group: [1974 - M460T - Input Module - Pin Outs p
 - **Closed boxes:** 38; named: 10; 12; 16; 18; 19; 20; 21
 - **Words (OCR):** 75 in 60 lines: WAAD-BeCK ybtemb LTD; · CONNECTOR LAYQUT · Mlgot INPUT LQDuLE · P2 · NC · NC · GND · GNO · Left Out · LEFT Out · IC · IC
 
-Every curve, box, word and wire group: [1974 - M460T - Input Module - Pin Outs p2 (traced).json](1974%20-%20M460T%20-%20Input%20Module%20-%20Pin%20Outs%20p2%20%28traced%29.json) (the CAD file: `1974 - M460T - Input Module - Pin Outs p2 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460T - Input Module - Pin Outs p2 (traced).json](../PINOUTS/1974%20-%20M460T%20-%20Input%20Module%20-%20Pin%20Outs%20p2%20(traced).json) (the CAD file: `1974 - M460T - Input Module - Pin Outs p2 (traced).dxf`).
 
 ## Full text
 
@@ -112,7 +112,7 @@ FCCTED
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M460T/1974 - M460T - Input Module - Pin Outs.pdf",
+ "file": "Modules/INPUT-PRE-AMPS/M460T/PINOUTS/1974 - M460T - Input Module - Pin Outs.pdf",
  "sha256": "3d9650ff7008c9db9cd29c620155ee5c3522911778f59cecdeeb089dfaf98ac7",
  "kind": "module",
  "models": [

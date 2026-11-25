@@ -1,5 +1,5 @@
 # 1974 - M460T - Pin Out P1.jpg
-Wiki page: [M460T](../../../PAGES/M460T.md)
+Wiki page: [M460T](../../../../PAGES/M460T.md)
 
 
 - **Year:** 1974 (module estimate (family))
@@ -107,7 +107,7 @@ FB?
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M460T/1974 - M460T - Pin Out P1.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M460T/PINOUTS/1974 - M460T - Pin Out P1.jpg",
  "sha256": "3e73025d902e00aae31eeb66733bf4ba686e74e13d8facb1d7eeebbaeb598840",
  "kind": "module",
  "models": [

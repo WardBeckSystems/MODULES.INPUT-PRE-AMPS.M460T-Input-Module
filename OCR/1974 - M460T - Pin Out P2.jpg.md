@@ -1,5 +1,5 @@
 # 1974 - M460T - Pin Out P2.jpg
-Wiki page: [M460T](../../../PAGES/M460T.md)
+Wiki page: [M460T](../../../../PAGES/M460T.md)
 
 
 - **Year:** 1974 (module estimate (family))
@@ -79,7 +79,7 @@ EGEND ON LAMP ChaSSIS NC: NoT CONNECTED IC ; INTERNALLY CONNECTED (LOwER)
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M460T/1974 - M460T - Pin Out P2.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M460T/PINOUTS/1974 - M460T - Pin Out P2.jpg",
  "sha256": "2eea72bb86e67baa69663dab26259078960016fda1015c65fe68ed6042ffcf90",
  "kind": "module",
  "models": [

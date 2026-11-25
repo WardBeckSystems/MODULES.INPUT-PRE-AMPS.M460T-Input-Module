@@ -1,0 +1,336 @@
+{
+ "code": "M460T",
+ "connector": "RTO-144",
+ "type": "M460T - Input Module - Pin Outs",
+ "series": null,
+ "contacts": "22 contacts (P1), 22 contacts (P2)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "MIC IN",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "5",
+   "signal": "BUS RIGHT OUT",
+   "kind": "out",
+   "pair": "A3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "12",
+   "signal": "DIRECT OUT",
+   "kind": "out",
+   "pair": "A4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "17",
+   "signal": "LINE IN",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "18",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "FADER RETURN",
+   "kind": "in",
+   "pair": "B4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "CH ON SWITCH OUT",
+   "kind": "control",
+   "pair": "B3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "INSERT RETURN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "INSERT OUT",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "A",
+   "signal": "MIC IN",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "E",
+   "signal": "BUS RIGHT OUT",
+   "kind": "out",
+   "pair": "A3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "N",
+   "signal": "DIRECT OUT",
+   "kind": "out",
+   "pair": "A4",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "U",
+   "signal": "LINE IN",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "W",
+   "signal": "FADER RETURN",
+   "kind": "in",
+   "pair": "B4",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "X",
+   "signal": "CH ON SWITCH OUT",
+   "kind": "control",
+   "pair": "B3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "Y",
+   "signal": "INSERT RETURN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "Y",
+   "signal": "+24 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "Z",
+   "signal": "INSERT OUT",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M460T/M460T.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [
+  {
+   "function": "CH ON LAMP",
+   "designation": "JMP.Z.W",
+   "from": "P2-Z",
+   "to": "P2-W"
+  },
+  {
+   "function": "CH ON GND ",
+   "designation": "JMP.X.18",
+   "from": "P2-X",
+   "to": "P2-18"
+  },
+  {
+   "function": "24V Jumper",
+   "designation": "JMP.Y.21",
+   "from": "P2-Y",
+   "to": "P2-21"
+  },
+  {
+   "function": "CH ON GND ",
+   "designation": "JMP.3",
+   "from": "P2-20",
+   "to": "P2-18"
+  },
+  {
+   "function": "Insert +",
+   "designation": "JMP.22.21",
+   "from": "P1-22",
+   "to": "P1-21"
+  },
+  {
+   "function": "Insert -",
+   "designation": "JMP.Z.Y",
+   "from": "P1-Z",
+   "to": "P1-Y"
+  },
+  {
+   "function": "Fader +",
+   "designation": "JMP.20.19",
+   "from": "P1-20",
+   "to": "P1-19"
+  },
+  {
+   "function": "Fader - ",
+   "designation": "JMP.X.W",
+   "from": "P1-X",
+   "to": "P1-W"
+  }
+ ],
+ "power": [
+  {
+   "rail": "VEE-AUDIO",
+   "style": "NEW",
+   "volts": -25,
+   "max_a": 0.1,
+   "supply": "P2-19",
+   "ground": "P2-20",
+   "link": 2
+  },
+  {
+   "rail": "VCC-AUDIO",
+   "style": "NEW",
+   "volts": 25,
+   "max_a": 0.2,
+   "supply": "P2-21",
+   "ground": "P2-20",
+   "link": 1
+  },
+  {
+   "rail": "VCC-LOGIC",
+   "style": "NEW",
+   "volts": 24,
+   "max_a": 0.1,
+   "supply": "P2-Y",
+   "ground": "P2-18",
+   "link": null
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M460T/M460T.rto144.json"
+ ]
+}

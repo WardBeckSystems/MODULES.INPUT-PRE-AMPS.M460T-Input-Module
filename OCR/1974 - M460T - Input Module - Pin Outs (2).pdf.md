@@ -1,5 +1,5 @@
 # 1974 - M460T - Input Module - Pin Outs (2).pdf
-Wiki page: [M460T](../../../PAGES/M460T.md)
+Wiki page: [M460T](../../../../PAGES/M460T.md)
 
 
 - **Year:** 1974 (module estimate (family))
@@ -22,7 +22,7 @@ Wiki page: [M460T](../../../PAGES/M460T.md)
 - **Closed boxes:** 39
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1974 - M460T - Input Module - Pin Outs (2) p1 (traced).json](1974%20-%20M460T%20-%20Input%20Module%20-%20Pin%20Outs%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1974 - M460T - Input Module - Pin Outs (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460T - Input Module - Pin Outs (2) p1 (traced).json](../PINOUTS/1974%20-%20M460T%20-%20Input%20Module%20-%20Pin%20Outs%20(2)%20p1%20(traced).json) (the CAD file: `1974 - M460T - Input Module - Pin Outs (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -32,7 +32,7 @@ Every curve, box, word and wire group: [1974 - M460T - Input Module - Pin Outs (
 - **Closed boxes:** 42
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1974 - M460T - Input Module - Pin Outs (2) p2 (traced).json](1974%20-%20M460T%20-%20Input%20Module%20-%20Pin%20Outs%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1974 - M460T - Input Module - Pin Outs (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M460T - Input Module - Pin Outs (2) p2 (traced).json](../PINOUTS/1974%20-%20M460T%20-%20Input%20Module%20-%20Pin%20Outs%20(2)%20p2%20(traced).json) (the CAD file: `1974 - M460T - Input Module - Pin Outs (2) p2 (traced).dxf`).
 
 ## Full text
 
@@ -108,7 +108,7 @@ FCCTED
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M460T/1974 - M460T - Input Module - Pin Outs (2).pdf",
+ "file": "Modules/INPUT-PRE-AMPS/M460T/PINOUTS/1974 - M460T - Input Module - Pin Outs (2).pdf",
  "sha256": "e5f04317bdcf41a66c63ebc5231583756f95d3a03dfb8c44f1fde9d2486c55a9",
  "kind": "module",
  "models": [
