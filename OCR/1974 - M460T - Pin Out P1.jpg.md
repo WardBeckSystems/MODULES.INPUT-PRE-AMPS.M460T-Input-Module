@@ -11,6 +11,17 @@ Wiki page: [M460T](../../../../PAGES/M460T.md)
 - **Size:** 30,112 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 298 × 432 mm, 539 × 782 px traced (0.552 mm/px)
+- **Ink extent:** 2–298 mm across, 4–427 mm up
+- **Outlines:** line 168 rings, 1,215 straight (6,977 mm) / 293 curved (895 mm); text 224 rings, 1,504 straight (3,315 mm) / 482 curved (1,463 mm)
+- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.5 @ (175.6, 69.9)
+- **Closed boxes:** 40
+- **Words (OCR):** 56 in 47 lines: CONNECTOR LaYouI · INPUI_MQDULE · Mic · Mic · Mic SHIELD · RSI · Rsi · FB2 · FB? · F81 · FB1 · AUXL
+
+Every curve, box, word and wire group: [1974 - M460T - Pin Out P1 (traced).json](../PINOUTS/1974%20-%20M460T%20-%20Pin%20Out%20P1%20%28traced%29.json) (the CAD file: `1974 - M460T - Pin Out P1 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 2 words corrected)

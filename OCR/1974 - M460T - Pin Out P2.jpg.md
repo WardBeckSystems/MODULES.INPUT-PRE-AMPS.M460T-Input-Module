@@ -11,6 +11,16 @@ Wiki page: [M460T](../../../../PAGES/M460T.md)
 - **Size:** 29,898 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 304 × 432 mm, 549 × 779 px traced (0.554 mm/px)
+- **Ink extent:** 1–298 mm across, 2–427 mm up
+- **Outlines:** line 186 rings, 1,312 straight (7,258 mm) / 290 curved (912 mm); text 225 rings, 1,312 straight (2,835 mm) / 453 curved (1,393 mm)
+- **Closed boxes:** 37
+- **Words (OCR):** 41 in 31 lines: WAAD-BeCK BYBTEME LTD · INPUI_MQDuLE · GND · GND · Left OUT · LEFT OuT · Richt OuT · RiGhT OuT · GNO · GND · oiRecT · DIRECT
+
+Every curve, box, word and wire group: [1974 - M460T - Pin Out P2 (traced).json](../PINOUTS/1974%20-%20M460T%20-%20Pin%20Out%20P2%20%28traced%29.json) (the CAD file: `1974 - M460T - Pin Out P2 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 2 words corrected)
