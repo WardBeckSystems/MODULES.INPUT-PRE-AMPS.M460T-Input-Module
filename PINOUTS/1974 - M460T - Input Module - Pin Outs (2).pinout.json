@@ -1,0 +1,1152 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1974 - M460T - Input Module - Pin Outs (2).pdf",
+  "module": "M460T",
+  "applies_to": [
+    "M460T"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": "CONNECTOR LAYOUT M460T INPUT MODULE",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 44,
+      "rows": "A-Z opposite 1-22",
+      "view": null,
+      "part": null
+    },
+    {
+      "name": "P2",
+      "kind": "edge",
+      "contacts": 44,
+      "rows": "A-Z opposite 1-22",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "A",
+      "also": "1",
+      "as_drawn": "MIC",
+      "signal": "MIC IN",
+      "kind": "in",
+      "port": "MIC INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": "A",
+      "as_drawn": "MIC",
+      "signal": "MIC IN",
+      "kind": "in",
+      "port": "MIC INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "B",
+      "also": "2",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": "B",
+      "as_drawn": "MIC SHIELD",
+      "signal": "MIC IN SHIELD",
+      "kind": "shield",
+      "port": "MIC INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "C",
+      "also": "3",
+      "as_drawn": "RS1",
+      "signal": "RS1 BUS",
+      "kind": "bus",
+      "port": "RS1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": "C",
+      "as_drawn": "RS1",
+      "signal": "RS1 BUS",
+      "kind": "bus",
+      "port": "RS1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "D",
+      "also": "4",
+      "as_drawn": "FB2",
+      "signal": "FB2 BUS",
+      "kind": "bus",
+      "port": "FB2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": "D",
+      "as_drawn": "FB2",
+      "signal": "FB2 BUS",
+      "kind": "bus",
+      "port": "FB2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "E",
+      "also": "5",
+      "as_drawn": "FB1",
+      "signal": "FB1 BUS",
+      "kind": "bus",
+      "port": "FB1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": "E",
+      "as_drawn": "FB1",
+      "signal": "FB1 BUS",
+      "kind": "bus",
+      "port": "FB1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "F",
+      "also": "6",
+      "as_drawn": "AUX4",
+      "signal": "AUX4 BUS",
+      "kind": "bus",
+      "port": "AUX4",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": "F",
+      "as_drawn": "AUX4",
+      "signal": "AUX4 BUS",
+      "kind": "bus",
+      "port": "AUX4",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "H",
+      "also": "7",
+      "as_drawn": "AUX3",
+      "signal": "AUX3 BUS",
+      "kind": "bus",
+      "port": "AUX3",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": "H",
+      "as_drawn": "AUX3",
+      "signal": "AUX3 BUS",
+      "kind": "bus",
+      "port": "AUX3",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "J",
+      "also": "8",
+      "as_drawn": "AUX2",
+      "signal": "AUX2 BUS",
+      "kind": "bus",
+      "port": "AUX2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": "J",
+      "as_drawn": "AUX2",
+      "signal": "AUX2 BUS",
+      "kind": "bus",
+      "port": "AUX2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "K",
+      "also": "9",
+      "as_drawn": "AUX1",
+      "signal": "AUX1 BUS",
+      "kind": "bus",
+      "port": "AUX1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": "K",
+      "as_drawn": "AUX1",
+      "signal": "AUX1 BUS",
+      "kind": "bus",
+      "port": "AUX1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "L",
+      "also": "10",
+      "as_drawn": "PFL",
+      "signal": "PFL BUS",
+      "kind": "bus",
+      "port": "PFL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": "L",
+      "as_drawn": "PFL",
+      "signal": "PFL BUS",
+      "kind": "bus",
+      "port": "PFL",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "M",
+      "also": "11",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": "M",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "N",
+      "also": "12",
+      "as_drawn": "SOLO",
+      "signal": "SOLO BUS",
+      "kind": "bus",
+      "port": "SOLO",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": "N",
+      "as_drawn": "SOLO",
+      "signal": "SOLO BUS",
+      "kind": "bus",
+      "port": "SOLO",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "P",
+      "also": "13",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": "P",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "R",
+      "also": "14",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": "R",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "S",
+      "also": "15",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": "S",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "T",
+      "also": "16",
+      "as_drawn": "ATT IN SHIELD TIE",
+      "signal": "ATT IN SHIELD TIE",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": "T",
+      "as_drawn": "ATT IN SHIELD TIE",
+      "signal": "ATT IN SHIELD TIE",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "U",
+      "also": "17",
+      "as_drawn": "LINE IN",
+      "signal": "LINE IN",
+      "kind": "in",
+      "port": "LINE IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": "U",
+      "as_drawn": "LINE IN",
+      "signal": "LINE IN",
+      "kind": "in",
+      "port": "LINE IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "V",
+      "also": "18",
+      "as_drawn": "ATT OUT SHIELD TIE",
+      "signal": "ATT OUT SHIELD TIE",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": "V",
+      "as_drawn": "ATT OUT SHIELDTIE",
+      "signal": "ATT OUT SHIELD TIE",
+      "kind": "shield",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "W",
+      "also": "19",
+      "as_drawn": "BOOSTER IN,",
+      "signal": "BOOSTER IN",
+      "kind": "in",
+      "port": "BOOSTER IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": "W",
+      "as_drawn": "BOOSTER IN",
+      "signal": "BOOSTER IN",
+      "kind": "in",
+      "port": "BOOSTER IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "X",
+      "also": "20",
+      "as_drawn": "CH ON OUT",
+      "signal": "CH ON OUT",
+      "kind": "control_out",
+      "port": "CH ON OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": "X",
+      "as_drawn": "CH ON OUT",
+      "signal": "CH ON OUT",
+      "kind": "control_out",
+      "port": "CH ON OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Y",
+      "also": "21",
+      "as_drawn": "CH ON IN",
+      "signal": "CH ON IN",
+      "kind": "control_in",
+      "port": "CH ON IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": "Y",
+      "as_drawn": "CH ON IN",
+      "signal": "CH ON IN",
+      "kind": "control_in",
+      "port": "CH ON IN",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "Z",
+      "also": "22",
+      "as_drawn": "PRE OUT",
+      "signal": "PRE OUT",
+      "kind": "out",
+      "port": "PRE OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": "Z",
+      "as_drawn": "PRE OUT",
+      "signal": "PRE OUT",
+      "kind": "out",
+      "port": "PRE OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "A",
+      "also": "1",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "1",
+      "also": "A",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "B",
+      "also": "2",
+      "as_drawn": "GND",
+      "signal": "GND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "2",
+      "also": "B",
+      "as_drawn": "GND",
+      "signal": "GND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "C",
+      "also": "3",
+      "as_drawn": "LEFT OUT",
+      "signal": "LEFT OUT",
+      "kind": "out",
+      "port": "LEFT OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "3",
+      "also": "C",
+      "as_drawn": "LEFT OUT",
+      "signal": "LEFT OUT",
+      "kind": "out",
+      "port": "LEFT OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "D",
+      "also": "4",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "4",
+      "also": "D",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "E",
+      "also": "5",
+      "as_drawn": "RIGHT OUT",
+      "signal": "RIGHT OUT",
+      "kind": "out",
+      "port": "RIGHT OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "5",
+      "also": "E",
+      "as_drawn": "RIGHT OUT",
+      "signal": "RIGHT OUT",
+      "kind": "out",
+      "port": "RIGHT OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "F",
+      "also": "6",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "6",
+      "also": "F",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "H",
+      "also": "7",
+      "as_drawn": "GND",
+      "signal": "GND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "7",
+      "also": "H",
+      "as_drawn": "GND",
+      "signal": "GND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "J",
+      "also": "8",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "8",
+      "also": "J",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "K",
+      "also": "9",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "9",
+      "also": "K",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "L",
+      "also": "10",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "10",
+      "also": "L",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "M",
+      "also": "11",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "11",
+      "also": "M",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "N",
+      "also": "12",
+      "as_drawn": "DIRECT",
+      "signal": "DIRECT OUT",
+      "kind": "out",
+      "port": "DIRECT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "12",
+      "also": "N",
+      "as_drawn": "DIRECT",
+      "signal": "DIRECT OUT",
+      "kind": "out",
+      "port": "DIRECT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "P",
+      "also": "13",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "13",
+      "also": "P",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "R",
+      "also": "14",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "14",
+      "also": "R",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "S",
+      "also": "15",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "15",
+      "also": "S",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "T",
+      "also": "16",
+      "as_drawn": "RS CONTROL",
+      "signal": "RS CONTROL",
+      "kind": "control_in",
+      "port": "RS CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "16",
+      "also": "T",
+      "as_drawn": "PFL CONTROL",
+      "signal": "PFL CONTROL",
+      "kind": "control_in",
+      "port": "PFL CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "U",
+      "also": "17",
+      "as_drawn": "MUTE CONTROL",
+      "signal": "MUTE CONTROL",
+      "kind": "control_in",
+      "port": "MUTE CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "17",
+      "also": "U",
+      "as_drawn": "MUTE CONTROL",
+      "signal": "MUTE CONTROL",
+      "kind": "control_in",
+      "port": "MUTE CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "V",
+      "also": "18",
+      "as_drawn": "SOLO CONTROL",
+      "signal": "SOLO CONTROL",
+      "kind": "control_in",
+      "port": "SOLO CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "18",
+      "also": "V",
+      "as_drawn": "CONTROL COM.",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "W",
+      "also": "19",
+      "as_drawn": "CH ON",
+      "signal": "CH ON",
+      "kind": "control_in",
+      "port": "CH ON",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "19",
+      "also": "W",
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "X",
+      "also": "20",
+      "as_drawn": "25V COM.",
+      "signal": "25 V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "20",
+      "also": "X",
+      "as_drawn": "25V COM.",
+      "signal": "25 V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "Y",
+      "also": "21",
+      "as_drawn": "+24V",
+      "signal": "+24 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "21",
+      "also": "Y",
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "Z",
+      "also": "22",
+      "as_drawn": "CH ON LAMP",
+      "signal": "CH ON LAMP",
+      "kind": "control_out",
+      "port": "CH ON LAMP",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "22",
+      "also": "Z",
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "MIC INPUT",
+      "dir": "in",
+      "pins": {
+        "unmarked": [
+          "P1-A",
+          "P1-1"
+        ],
+        "shield": "P1-2"
+      }
+    },
+    {
+      "name": "RS1",
+      "dir": "bus",
+      "pins": {
+        "unmarked": [
+          "P1-C",
+          "P1-3"
+        ]
+      }
+    },
+    {
+      "name": "FB2",
+      "dir": "bus",
+      "pins": {
+        "unmarked": [
+          "P1-D",
+          "P1-4"
+        ]
+      }
+    },
+    {
+      "name": "FB1",
+      "dir": "bus",
+      "pins": {
+        "unmarked": [
+          "P1-E",
+          "P1-5"
+        ]
+      }
+    },
+    {
+      "name": "AUX4",
+      "dir": "bus",
+      "pins": {
+        "unmarked": [
+          "P1-F",
+          "P1-6"
+        ]
+      }
+    },
+    {
+      "name": "AUX3",
+      "dir": "bus",
+      "pins": {
+        "unmarked": [
+          "P1-H",
+          "P1-7"
+        ]
+      }
+    },
+    {
+      "name": "AUX2",
+      "dir": "bus",
+      "pins": {
+        "unmarked": [
+          "P1-J",
+          "P1-8"
+        ]
+      }
+    },
+    {
+      "name": "AUX1",
+      "dir": "bus",
+      "pins": {
+        "unmarked": [
+          "P1-K",
+          "P1-9"
+        ]
+      }
+    },
+    {
+      "name": "PFL",
+      "dir": "bus",
+      "pins": {
+        "unmarked": [
+          "P1-L",
+          "P1-10"
+        ]
+      }
+    },
+    {
+      "name": "SOLO",
+      "dir": "bus",
+      "pins": {
+        "unmarked": [
+          "P1-N",
+          "P1-12"
+        ]
+      }
+    },
+    {
+      "name": "LINE IN",
+      "dir": "in",
+      "pins": {
+        "unmarked": [
+          "P1-U",
+          "P1-17"
+        ]
+      }
+    },
+    {
+      "name": "BOOSTER IN",
+      "dir": "in",
+      "pins": {
+        "unmarked": [
+          "P1-W",
+          "P1-19"
+        ]
+      }
+    },
+    {
+      "name": "CH ON OUT",
+      "dir": "control_out",
+      "pins": {
+        "unmarked": [
+          "P1-X",
+          "P1-20"
+        ]
+      }
+    },
+    {
+      "name": "CH ON IN",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": [
+          "P1-Y",
+          "P1-21"
+        ]
+      }
+    },
+    {
+      "name": "PRE OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P1-Z",
+          "P1-22"
+        ]
+      }
+    },
+    {
+      "name": "LEFT OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P2-C",
+          "P2-3"
+        ]
+      }
+    },
+    {
+      "name": "RIGHT OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P2-E",
+          "P2-5"
+        ]
+      }
+    },
+    {
+      "name": "DIRECT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P2-N",
+          "P2-12"
+        ]
+      }
+    },
+    {
+      "name": "RS CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-T"
+      }
+    },
+    {
+      "name": "PFL CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-16"
+      }
+    },
+    {
+      "name": "MUTE CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": [
+          "P2-U",
+          "P2-17"
+        ]
+      }
+    },
+    {
+      "name": "SOLO CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-V"
+      }
+    },
+    {
+      "name": "CH ON",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-W"
+      }
+    },
+    {
+      "name": "CH ON LAMP",
+      "dir": "control_out",
+      "pins": {
+        "unmarked": "P2-Z"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "No drawing number, date or drawn-by on the page",
+    "View (front/rear) not stated"
+  ],
+  "confidence": "high",
+  "notes": "Letter and number contacts are each labelled on their own side, so every contact is its own entry (pin = the contact, also = the opposite contact). Where both sides carry the same words the drawing does not say whether they are paralleled or the two legs of a balanced signal; polarity is left null. MIC on A and 1 with MIC SHIELD on 2 looks like a balanced mic input (A/1 = the two legs) but no +/- is drawn. RS1, FB2, FB1, AUX1-4, PFL and SOLO are the mix/cue buses (direction onto the bus not drawn). PRE OUT (Z/22) with LINE IN (U/17) and BOOSTER IN (W/19) may form a patch point, but nothing on the page calls it an insert, so no insert is recorded. Legend: NC = not connected, IC = internally connected. Page numbers 4-1 (P1, marked UPPER) and 4-2 (P2, marked LOWER). No title block, date or drawing number on the page. This PDF holds two pages: page 1 = P1 (4-1), page 2 = P2 (4-2), the same pictures as the P1 / P2 JPEGs."
+}

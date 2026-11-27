@@ -1,0 +1,553 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1974 - M460T - Pin Out P2.jpg",
+  "module": "M460T",
+  "applies_to": [
+    "M460T"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": null,
+    "title": "CONNECTOR LAYOUT M460T INPUT MODULE",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P2",
+      "kind": "edge",
+      "contacts": 44,
+      "rows": "A-Z opposite 1-22",
+      "view": null,
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P2",
+      "pin": "A",
+      "also": "1",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "1",
+      "also": "A",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "B",
+      "also": "2",
+      "as_drawn": "GND",
+      "signal": "GND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "2",
+      "also": "B",
+      "as_drawn": "GND",
+      "signal": "GND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "C",
+      "also": "3",
+      "as_drawn": "LEFT OUT",
+      "signal": "LEFT OUT",
+      "kind": "out",
+      "port": "LEFT OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "3",
+      "also": "C",
+      "as_drawn": "LEFT OUT",
+      "signal": "LEFT OUT",
+      "kind": "out",
+      "port": "LEFT OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "D",
+      "also": "4",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "4",
+      "also": "D",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "E",
+      "also": "5",
+      "as_drawn": "RIGHT OUT",
+      "signal": "RIGHT OUT",
+      "kind": "out",
+      "port": "RIGHT OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "5",
+      "also": "E",
+      "as_drawn": "RIGHT OUT",
+      "signal": "RIGHT OUT",
+      "kind": "out",
+      "port": "RIGHT OUT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "F",
+      "also": "6",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "6",
+      "also": "F",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "H",
+      "also": "7",
+      "as_drawn": "GND",
+      "signal": "GND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "7",
+      "also": "H",
+      "as_drawn": "GND",
+      "signal": "GND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "J",
+      "also": "8",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "8",
+      "also": "J",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "K",
+      "also": "9",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "9",
+      "also": "K",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "L",
+      "also": "10",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "10",
+      "also": "L",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "M",
+      "also": "11",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "11",
+      "also": "M",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "N",
+      "also": "12",
+      "as_drawn": "DIRECT",
+      "signal": "DIRECT OUT",
+      "kind": "out",
+      "port": "DIRECT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "12",
+      "also": "N",
+      "as_drawn": "DIRECT",
+      "signal": "DIRECT OUT",
+      "kind": "out",
+      "port": "DIRECT",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "P",
+      "also": "13",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "13",
+      "also": "P",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "R",
+      "also": "14",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "14",
+      "also": "R",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "S",
+      "also": "15",
+      "as_drawn": "NC",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "15",
+      "also": "S",
+      "as_drawn": "IC",
+      "signal": "IC (INTERNALLY CONNECTED)",
+      "kind": "other",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "T",
+      "also": "16",
+      "as_drawn": "RS CONTROL",
+      "signal": "RS CONTROL",
+      "kind": "control_in",
+      "port": "RS CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "16",
+      "also": "T",
+      "as_drawn": "PFL CONTROL",
+      "signal": "PFL CONTROL",
+      "kind": "control_in",
+      "port": "PFL CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "U",
+      "also": "17",
+      "as_drawn": "MUTE CONTROL",
+      "signal": "MUTE CONTROL",
+      "kind": "control_in",
+      "port": "MUTE CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "17",
+      "also": "U",
+      "as_drawn": "MUTE CONTROL",
+      "signal": "MUTE CONTROL",
+      "kind": "control_in",
+      "port": "MUTE CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "V",
+      "also": "18",
+      "as_drawn": "SOLO CONTROL",
+      "signal": "SOLO CONTROL",
+      "kind": "control_in",
+      "port": "SOLO CONTROL",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "18",
+      "also": "V",
+      "as_drawn": "CONTROL COM.",
+      "signal": "CONTROL COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "W",
+      "also": "19",
+      "as_drawn": "CH ON",
+      "signal": "CH ON",
+      "kind": "control_in",
+      "port": "CH ON",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "19",
+      "also": "W",
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "X",
+      "also": "20",
+      "as_drawn": "25V COM.",
+      "signal": "25 V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "20",
+      "also": "X",
+      "as_drawn": "25V COM.",
+      "signal": "25 V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "Y",
+      "also": "21",
+      "as_drawn": "+24V",
+      "signal": "+24 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "21",
+      "also": "Y",
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "Z",
+      "also": "22",
+      "as_drawn": "CH ON LAMP",
+      "signal": "CH ON LAMP",
+      "kind": "control_out",
+      "port": "CH ON LAMP",
+      "polarity": null
+    },
+    {
+      "connector": "P2",
+      "pin": "22",
+      "also": "Z",
+      "as_drawn": "CHASSIS",
+      "signal": "CHASSIS",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "LEFT OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P2-C",
+          "P2-3"
+        ]
+      }
+    },
+    {
+      "name": "RIGHT OUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P2-E",
+          "P2-5"
+        ]
+      }
+    },
+    {
+      "name": "DIRECT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P2-N",
+          "P2-12"
+        ]
+      }
+    },
+    {
+      "name": "RS CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-T"
+      }
+    },
+    {
+      "name": "PFL CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-16"
+      }
+    },
+    {
+      "name": "MUTE CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": [
+          "P2-U",
+          "P2-17"
+        ]
+      }
+    },
+    {
+      "name": "SOLO CONTROL",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-V"
+      }
+    },
+    {
+      "name": "CH ON",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": "P2-W"
+      }
+    },
+    {
+      "name": "CH ON LAMP",
+      "dir": "control_out",
+      "pins": {
+        "unmarked": "P2-Z"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "No drawing number, date or drawn-by on the page",
+    "View (front/rear) not stated"
+  ],
+  "confidence": "high",
+  "notes": "Letter and number contacts are each labelled on their own side, so every contact is its own entry (pin = the contact, also = the opposite contact). Where both sides carry the same words the drawing does not say whether they are paralleled or the two legs of a balanced signal; polarity is left null. MIC on A and 1 with MIC SHIELD on 2 looks like a balanced mic input (A/1 = the two legs) but no +/- is drawn. RS1, FB2, FB1, AUX1-4, PFL and SOLO are the mix/cue buses (direction onto the bus not drawn). PRE OUT (Z/22) with LINE IN (U/17) and BOOSTER IN (W/19) may form a patch point, but nothing on the page calls it an insert, so no insert is recorded. Legend: NC = not connected, IC = internally connected. Page numbers 4-1 (P1, marked UPPER) and 4-2 (P2, marked LOWER). No title block, date or drawing number on the page. This picture is page 4-2, P2 only. Y = +24V but 21 = +25V as drawn."
+}
