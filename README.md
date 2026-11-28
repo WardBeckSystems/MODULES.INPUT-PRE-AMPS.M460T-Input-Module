@@ -1,6 +1,6 @@
 # M460T Input Module · Input Pre Amps
 
-Ward-Beck Systems M460T, 1974|7. Wiki page: [M460T on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M460T.html)
+Ward-Beck Systems M460T, 1974|7. Wiki page: [M460T on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M460T-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

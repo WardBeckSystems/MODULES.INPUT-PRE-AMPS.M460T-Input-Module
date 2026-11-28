@@ -1,5 +1,5 @@
 # 1974 - M460T - Input Module - Pin Outs.pdf
-Wiki page: [M460T](../../../../PAGES/M460T.md)
+Wiki page: [M460T](../)
 
 
 - **Year:** 1974 (module estimate (family))

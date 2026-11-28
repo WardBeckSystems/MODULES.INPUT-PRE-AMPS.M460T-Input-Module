@@ -1,5 +1,5 @@
 # 1974 - M460T - Pin Out P2.jpg
-Wiki page: [M460T](../../../../PAGES/M460T.md)
+Wiki page: [M460T](../)
 
 
 - **Year:** 1974 (module estimate (family))
